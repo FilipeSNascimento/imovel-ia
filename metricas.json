@@ -1,0 +1,11 @@
+{
+  "registros": 2930,
+  "modelo": "Random Forest",
+  "mae_validacao": {
+    "Regressão linear": 24106.37808989523,
+    "Random Forest": 19647.16196013201
+  },
+  "mae": 20740.00490163227,
+  "rmse": 33267.742724321644,
+  "r2": 0.8619599514079427
+}
